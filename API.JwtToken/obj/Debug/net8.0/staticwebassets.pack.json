@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\API.JwtToken\\API.JwtToken\\wwwroot\\Upload\\product\\001\\001.png",
+      "PackagePath": "staticwebassets\\Upload\\product\\001\\001.png"
+    },
+    {
+      "Id": "D:\\API.JwtToken\\API.JwtToken\\wwwroot\\Upload\\product\\001\\5e8481e7fded46b31ffc.jpg",
+      "PackagePath": "staticwebassets\\Upload\\product\\001\\5e8481e7fded46b31ffc.jpg"
+    },
+    {
+      "Id": "D:\\API.JwtToken\\API.JwtToken\\wwwroot\\Upload\\product\\001\\8a51b132cd3876662f29.jpg",
+      "PackagePath": "staticwebassets\\Upload\\product\\001\\8a51b132cd3876662f29.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.API.JwtToken.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.API.JwtToken.props",
+      "PackagePath": "build\\API.JwtToken.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.API.JwtToken.props",
+      "PackagePath": "buildMultiTargeting\\API.JwtToken.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.API.JwtToken.props",
+      "PackagePath": "buildTransitive\\API.JwtToken.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "33X+5pAeYFVF7DYBOF4rElAI0g+NTFVtXxstR5Yp/pg=",
+  "Source": "API.JwtToken",
+  "BasePath": "_content/API.JwtToken",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API.JwtToken\\wwwroot",
+      "Source": "API.JwtToken",
+      "ContentRoot": "D:\\API.JwtToken\\API.JwtToken\\wwwroot\\",
+      "BasePath": "_content/API.JwtToken",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\API.JwtToken\\API.JwtToken\\wwwroot\\Upload\\product\\001\\001.png",
+      "SourceId": "API.JwtToken",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\API.JwtToken\\API.JwtToken\\wwwroot\\",
+      "BasePath": "_content/API.JwtToken",
+      "RelativePath": "Upload/product/001/001.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\product\\001\\001.png"
+    },
+    {
+      "Identity": "D:\\API.JwtToken\\API.JwtToken\\wwwroot\\Upload\\product\\001\\5e8481e7fded46b31ffc.jpg",
+      "SourceId": "API.JwtToken",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\API.JwtToken\\API.JwtToken\\wwwroot\\",
+      "BasePath": "_content/API.JwtToken",
+      "RelativePath": "Upload/product/001/5e8481e7fded46b31ffc.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\product\\001\\5e8481e7fded46b31ffc.jpg"
+    },
+    {
+      "Identity": "D:\\API.JwtToken\\API.JwtToken\\wwwroot\\Upload\\product\\001\\8a51b132cd3876662f29.jpg",
+      "SourceId": "API.JwtToken",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\API.JwtToken\\API.JwtToken\\wwwroot\\",
+      "BasePath": "_content/API.JwtToken",
+      "RelativePath": "Upload/product/001/8a51b132cd3876662f29.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\product\\001\\8a51b132cd3876662f29.jpg"
+    }
+  ]
+}

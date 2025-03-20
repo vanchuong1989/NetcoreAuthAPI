@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\API.JwtToken\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\modal\\customermodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\modal\\customermodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\repos\\models\\tblproductimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\repos\\models\\tblproductimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\repos\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\repos\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\migrations\\dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\migrations\\dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\repos\\models\\tlbproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\repos\\models\\tlbproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\controllers\\authorizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\controllers\\authorizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\api.jwttoken.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\api.jwttoken.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\helper\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\helper\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\modal\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\modal\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\repos\\models\\tblrefeshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\repos\\models\\tblrefeshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\container\\refreshhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\container\\refreshhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\container\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\container\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\service\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\service\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\service\\irefreshhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\service\\irefreshhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\helper\\automapperhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\helper\\automapperhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\helper\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\helper\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\modal\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\modal\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\modal\\usercredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\modal\\usercredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\repos\\models\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\repos\\models\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\repos\\models\\tblcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\repos\\models\\tblcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|d:\\api.jwttoken\\api.jwttoken\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861B98B-CB05-47C6-94BC-10E1EA352DFE}|API.JwtToken\\API.JwtToken.csproj|solutionrelative:api.jwttoken\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TblProductImage.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Repos\\Models\\TblProductImage.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\Repos\\Models\\TblProductImage.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Repos\\Models\\TblProductImage.cs",
+              "RelativeToolTip": "API.JwtToken\\Repos\\Models\\TblProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:10:09.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbContext.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Repos\\dbContext.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\Repos\\dbContext.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Repos\\dbContext.cs",
+              "RelativeToolTip": "API.JwtToken\\Repos\\dbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T06:33:43.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Migrations\\dbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\Migrations\\dbContextModelSnapshot.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Migrations\\dbContextModelSnapshot.cs",
+              "RelativeToolTip": "API.JwtToken\\Migrations\\dbContextModelSnapshot.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T09:17:41.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerModal.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Modal\\CustomerModal.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\Modal\\CustomerModal.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Modal\\CustomerModal.cs",
+              "RelativeToolTip": "API.JwtToken\\Modal\\CustomerModal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T01:33:44.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "API.JwtToken\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAqwFwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:27:45.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Program.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\Program.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Program.cs",
+              "RelativeToolTip": "API.JwtToken\\Program.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAADwv4kAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:37:52.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Readme.txt",
+              "RelativeDocumentMoniker": "API.JwtToken\\Readme.txt",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Readme.txt",
+              "RelativeToolTip": "API.JwtToken\\Readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-13T06:36:06.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthorizeController.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Controllers\\AuthorizeController.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\Controllers\\AuthorizeController.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Controllers\\AuthorizeController.cs",
+              "RelativeToolTip": "API.JwtToken\\Controllers\\AuthorizeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T05:49:45.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "APIResponse.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Helper\\APIResponse.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\Helper\\APIResponse.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Helper\\APIResponse.cs",
+              "RelativeToolTip": "API.JwtToken\\Helper\\APIResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:15:37.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "API.JwtToken",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\API.JwtToken.csproj",
+              "RelativeDocumentMoniker": "API.JwtToken\\API.JwtToken.csproj",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\API.JwtToken.csproj",
+              "RelativeToolTip": "API.JwtToken\\API.JwtToken.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T07:44:04.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "API.JwtToken\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAIwMMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:21:17.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TlbProduct.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Repos\\Models\\TlbProduct.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\Repos\\Models\\TlbProduct.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Repos\\Models\\TlbProduct.cs",
+              "RelativeToolTip": "API.JwtToken\\Repos\\Models\\TlbProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:10:04.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Modal\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\Modal\\TokenResponse.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Modal\\TokenResponse.cs",
+              "RelativeToolTip": "API.JwtToken\\Modal\\TokenResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:07:24.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RefreshHandler.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Container\\RefreshHandler.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\Container\\RefreshHandler.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Container\\RefreshHandler.cs",
+              "RelativeToolTip": "API.JwtToken\\Container\\RefreshHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:11:01.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Container\\CustomerService.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\Container\\CustomerService.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Container\\CustomerService.cs",
+              "RelativeToolTip": "API.JwtToken\\Container\\CustomerService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:33:43.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Service\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\Service\\ICustomerService.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Service\\ICustomerService.cs",
+              "RelativeToolTip": "API.JwtToken\\Service\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:33:05.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\appsettings.json",
+              "RelativeDocumentMoniker": "API.JwtToken\\appsettings.json",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\appsettings.json",
+              "RelativeToolTip": "API.JwtToken\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T04:28:02.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRefreshHandler.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Service\\IRefreshHandler.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\Service\\IRefreshHandler.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Service\\IRefreshHandler.cs",
+              "RelativeToolTip": "API.JwtToken\\Service\\IRefreshHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:11:49.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TblRefeshtoken.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Repos\\Models\\TblRefeshtoken.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\Repos\\Models\\TblRefeshtoken.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Repos\\Models\\TblRefeshtoken.cs",
+              "RelativeToolTip": "API.JwtToken\\Repos\\Models\\TblRefeshtoken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T09:21:22.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AutoMapperHandler.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Helper\\AutoMapperHandler.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\Helper\\AutoMapperHandler.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Helper\\AutoMapperHandler.cs",
+              "RelativeToolTip": "API.JwtToken\\Helper\\AutoMapperHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:05:13.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BasicAuthenticationHandler.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Helper\\BasicAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\Helper\\BasicAuthenticationHandler.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Helper\\BasicAuthenticationHandler.cs",
+              "RelativeToolTip": "API.JwtToken\\Helper\\BasicAuthenticationHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAlwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:48:23.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API.JwtToken\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T09:21:33.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Modal\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\Modal\\JwtSettings.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Modal\\JwtSettings.cs",
+              "RelativeToolTip": "API.JwtToken\\Modal\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:18:21.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserCredential.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Modal\\UserCredential.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\Modal\\UserCredential.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Modal\\UserCredential.cs",
+              "RelativeToolTip": "API.JwtToken\\Modal\\UserCredential.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T05:54:36.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TblUser.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Repos\\Models\\TblUser.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\Repos\\Models\\TblUser.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Repos\\Models\\TblUser.cs",
+              "RelativeToolTip": "API.JwtToken\\Repos\\Models\\TblUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:19:14.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TblCustomer.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\Repos\\Models\\TblCustomer.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\Repos\\Models\\TblCustomer.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\Repos\\Models\\TblCustomer.cs",
+              "RelativeToolTip": "API.JwtToken\\Repos\\Models\\TblCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T06:34:48.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\API.JwtToken\\API.JwtToken\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "API.JwtToken\\WeatherForecast.cs",
+              "ToolTip": "D:\\API.JwtToken\\API.JwtToken\\WeatherForecast.cs",
+              "RelativeToolTip": "API.JwtToken\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:36:08.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
